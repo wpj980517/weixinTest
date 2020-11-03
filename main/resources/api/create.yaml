@@ -1,0 +1,3 @@
+method: post
+url: https://qyapi.weixin.qq.com/cgi-bin/department/create
+body: ""

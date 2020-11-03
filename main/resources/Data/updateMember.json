@@ -1,0 +1,66 @@
+{
+  "userid": null,
+  "name": null,
+  "department": [1],
+  "order": null,
+  "position": null,
+  "mobile": null,
+  "gender": null,
+  "email": null,
+  "is_leader_in_dept": null,
+  "enable": null,
+  "avatar_mediaid": null,
+  "telephone": null,
+  "alias": null,
+  "address": null,
+  "main_department": null,
+  "extattr": {
+    "attrs": [
+      {
+        "type": null,
+        "name": null,
+        "text": {
+          "value": null
+        }
+      },
+      {
+        "type": null,
+        "name": null,
+        "web": {
+          "url": null,
+          "title": null
+        }
+      }
+    ]
+  },
+  "external_position": null,
+  "external_profile": {
+    "external_corp_name": null,
+    "external_attr": [
+      {
+        "type": null,
+        "name": null,
+        "text": {
+          "value": null
+        }
+      },
+      {
+        "type": null,
+        "name": null,
+        "web": {
+          "url": null,
+          "title": null
+        }
+      },
+      {
+        "type": null,
+        "name": null,
+        "miniprogram": {
+          "appid": null,
+          "pagepath": null,
+          "title": null
+        }
+      }
+    ]
+  }
+}

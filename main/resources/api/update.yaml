@@ -1,0 +1,3 @@
+url: https://qyapi.weixin.qq.com/cgi-bin/department/update
+method: post
+body: ""

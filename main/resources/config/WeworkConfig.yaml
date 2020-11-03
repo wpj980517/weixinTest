@@ -1,0 +1,11 @@
+
+AgentId: "1000002"
+secret: "1cqseg1Xc-9ZRqvAz-_ZPS8j4TB8n0_gsxW9zRELhns"
+cropId: "wwb1d09e3950b9350f"
+contactSecret: "d8yH_FoWuQBf7Jc7mL8CX2V1GWyxOZLHTdpmLg-ww8o"
+current: "test"
+env: #环境的配置
+  dev:
+    qyapi.weixin.qq.com: "qyapi.weixin.qq.com"
+  test:
+    qyapi.weixin.qq.com: "117.184.242.103"
